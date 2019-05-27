@@ -580,3 +580,36 @@ body{
 		}
 	}
 }
+//////////// owl stile
+.owl-carousel .owl-nav span
+ {
+ 	color: white;
+ 	background: black;
+ 	opacity: 0.5;
+ 	padding: 5px 15px;
+ 	font-size: 50px;
+ }
+ .owl-nav{
+ 	position: absolute;
+ 	width: 100%;
+ 	top: 33%;
+ }
+ .owl-prev{
+ 	float: left;
+ 	margin-left: 10px;
+ }
+ .owl-next{
+ 	float: right;
+ 	margin-right:10px;
+ }
+ .new-items .owl-prev{
+ 	float: left;
+ 	margin-left: 20px;
+ }
+ .new-items .owl-next{
+ 	float: right;
+ 	margin-right:20px;
+ }
+.owl-carousel.off {
+    display: block;
+}
