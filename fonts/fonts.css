@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?h73aey');
+  src:  url('../fonts/icomoon.eot?h73aey#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?h73aey') format('truetype'),
+    url('../fonts/icomoon.woff?h73aey') format('woff'),
+    url('../fonts/icomoon.svg?h73aey#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cheveron-up:before {
+  content: "\e90b";
+}
+.icon-cheveron-down:before {
+  content: "\e90a";
+}
+.icon-shopping-bag:before {
+  content: "\e908";
+}
+.icon-applepay:before {
+  content: "\e903";
+}
+.icon-paypal1:before {
+  content: "\e901";
+  color: #00457c;
+}
+.icon-mastercard:before {
+  content: "\e902";
+  color: #eb001b;
+}
+.icon-visa:before {
+  content: "\e900";
+  color: #142787;
+}
+.icon-bars:before {
+  content: "\e909";
+}
+.icon-user-o:before {
+  content: "\e907";
+}
+.icon-heart-o:before {
+  content: "\e906";
+}
+.icon-cc-amex:before {
+  content: "\e905";
+}
+.icon-copyright:before {
+  content: "\e904";
+}
+.icon-cart:before {
+  content: "\e93a";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-search:before {
+  content: "\e986";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-google3:before {
+  content: "\ea8a";
+}
+.icon-telegram:before {
+  content: "\ea95";
+}
+.icon-flickr4:before {
+  content: "\eaa6";
+}
+.icon-wordpress:before {
+  content: "\eab4";
+}
+.icon-appleinc:before {
+  content: "\eabe";
+}
+.icon-pinterest:before {
+  content: "\ead1";
+}
+.icon-paypal:before {
+  content: "\ead8";
+}
